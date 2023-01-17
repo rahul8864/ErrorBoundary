@@ -12,3 +12,9 @@ Typically, it is used together with `componentDidCatch` which lets you send the 
 # React Docs
 - https://beta.reactjs.org/reference/react/Component#static-getderivedstatefromerror
 - https://beta.reactjs.org/reference/react/Component#componentDidCatch
+
+### Error Boundary
+- https://reactjs.org/docs/error-boundaries.html
+
+### Error Handling
+- https://reactjs.org/blog/2017/07/26/error-handling-in-react-16.html
